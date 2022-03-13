@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "keep-clone-300721": {
+      "hosting": {
+        "open-thoughts": [
+          "keep-clone-300721"
+        ]
+      }
+    }
+  }
+}
